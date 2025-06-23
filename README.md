@@ -31,7 +31,7 @@
 - UI/UX & Product Design
 
 ## 👨‍💻 My Work
-- 🔗 All my projects are available at **[GitHub](https://github.com/navyaaishu)**
+- 🔗 All my projects are available at **[GitHub](https://github.com/navyaasihu)**
 - 📄 Know about my experiences **[Resume](https://drive.google.com/file/d/1RpQ_IzOXyY3YvBmnXF0bwltk3hjpGEj6/view?usp=sharing)**
 
 ---
