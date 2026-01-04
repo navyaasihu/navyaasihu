@@ -1,38 +1,58 @@
 # Hi 👋, I'm Navya Srivastava
 
-## 🚀 Electronics & Communication | FPGA & RTL Design | VLSI | Embedded Systems | AI for Hardware Optimization | UI/UX | Problem Solver
+🚀 Platform Engineering Intern | Linux & Docker | IoT & Embedded Systems | Automation & System Reliability
 
+---
+
+## 👩‍💻 About Me
+
+I am a B.Tech undergraduate student in Electronics and Communication Engineering (IoT specialization) and currently working as a Platform Engineering Intern at ATI Motors.
+I enjoy working at the intersection of Linux systems, automation, containers, and edge hardware, and I am actively building skills in DevOps and platform engineering.
 
 
 ---
 
+🧰 What I’m Currently Working On
+- Linux automation using shell scripts, systemd services, and timers
+- Docker image and container lifecycle management
+- Board bring-up and setup automation for Advantech and Dynalog platforms
+- Logging, debugging, and system reliability improvements
+- Edge deployments using Raspberry Pi and Orbbec Gemini 335Le camera
+
 ## 🛠 Projects I've Worked On
-- 🔢 **4x4 Vedic Multiplier Implementation Using GDI Logic**
+- 🐳 **Dockerized Web Application Deployment**
+- 🩺 **Smart Health Monitoring System – IoT edge–cloud pipeline**
 - ⏱️ **Reaction Timer using VHDL**
 - 🤖 **QuickDepth: AI-Based RTL Timing Analysis**
+  
 
 ## 📚 I Have Learned
-- **Languages & Tools:** MATLAB, C++, Python (basics), ESP32, Arduino, MySQL, Keil, AutoCAD, WinSpice, MULTISIM, DSCH, MicroWind, DOSBox, Virtual NanoLab, Raspberry Pi.
-- **Design & UI/UX:** Figma, Canva.
-- **AI & ML:** Generative AI, ChatGPT applications.
+- **🖥️ Platforms & Systems**
+- Linux, Docker, Git, VS Code
+- Raspberry Pi, Advantech Boards, Dynalog Boards, DE10 Lite, ESP32
+
+- **🧠 Programming & Scripting**
+- Python, Bash, C++, Verilog
+  
+- **🎨 Design & Visualization**
+- Figma, Canva
 
 ## 🎯 I Am Looking For
 - **Internships in:**
-  - Electronics & Embedded Systems
-  - FPGA & RTL Design
-  - AI-based Hardware Solutions
-  - Product Design, UI/UX & Graphic Design
+  - Platform Engineering / DevOps
+  - Embedded & IoT Systems
+  - Linux Systems & Automation
+  - Infrastructure & System Reliability
 
 ## 💬 Ask Me About
-- FPGA Design & VHDL
-- AI for RTL Design
-- Low-Power Digital Circuit Design
-- Embedded Systems & Microcontrollers
-- UI/UX & Product Design
+- Linux automation & systemd
+- Docker cleanup and container management
+- Board bring-up & edge deployments
+- Raspberry Pi–based systems
+- IoT edge–cloud architectures
 
 ## 👨‍💻 My Work
 - 🔗 All my projects are available at **[GitHub](https://github.com/navyaasihu)**
-- 📄 Know about my experiences **[Resume](https://drive.google.com/file/d/1RpQ_IzOXyY3YvBmnXF0bwltk3hjpGEj6/view?usp=sharing)**
 
 ---
 
