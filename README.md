@@ -28,12 +28,12 @@ I enjoy working at the intersection of Linux systems, automation, containers, an
 
 ## 📚 I Have Learned
 - **🖥️ Platforms & Systems**
--- Linux, Docker, Git, VS Code
--- Raspberry Pi, Advantech Boards, Dynalog Boards, DE10 Lite, ESP32
-
+- Linux, Docker, Git, VS Code
+- Raspberry Pi, Advantech Boards, Dynalog Boards, DE10 Lite, ESP32
+---
 - **🧠 Programming & Scripting**
 - Python, Bash, C++, Verilog
-  
+--- 
 - **🎨 Design & Visualization**
 - Figma, Canva
 
