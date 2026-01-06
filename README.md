@@ -53,6 +53,7 @@ I enjoy working at the intersection of Linux systems, automation, containers, an
 
 ## 👨‍💻 My Work
 - 🔗 All my projects are available at **[GitHub](https://github.com/navyaasihu)**
+- 🔗 Resume **[Resume](https://drive.google.com/file/d/1MaRJ-QnS3Tp93d2IBDzElJyBS1ZAxsPv/view?usp=sharing)**
 
 ---
 
